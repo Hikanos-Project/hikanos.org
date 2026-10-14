@@ -1,0 +1,27 @@
+# Hikanos Project
+
+> A free, confidential 3-month cohort program for post-exit founders with $5m–$50m in liquid wealth: an independent financial plan, a personal "enough" level, and a plan to use the surplus for purpose. Run by Freddy Zwanzger (3× exited founder), based in Germany. Part of the "Surplus for Purpose" ecosystem with Original Position, Enough Project and Metron Advisory.
+
+The whole site is one page; a clean Markdown copy is at /index.md.
+
+## Page sections
+
+- [Where you are as a post-exit founder](https://hikanos.org/#where-you-are): outside and inside situation after an exit
+- [Why Hikanos?](https://hikanos.org/#why-hikanos): ἱκανός, Ancient Greek for sufficient, from the verb "to arrive"
+- [What you can gain](https://hikanos.org/#what-you-gain): peers, financial planning without perverse incentives, a purpose for the surplus
+- [How the program works](https://hikanos.org/#program): 6 online sessions over 3 months, at most 8 founders, completely free; core elements and program outline
+- [What you take away](https://hikanos.org/#take-aways): your "enough" level, your financial plan, your plan for the surplus; full confidentiality
+- [Who am I](https://hikanos.org/#about): Freddy Zwanzger
+- [The "Surplus for Purpose" ecosystem](https://hikanos.org/#ecosystem): four programs for different wealth situations
+- [Resources for post-exit founders](https://hikanos.org/#resources): podcast, Yale papers, book, financial calculators
+- [Next steps](https://hikanos.org/#next-steps): apply, newsletter, contact
+
+## Docs
+
+- [Full page as Markdown](https://hikanos.org/index.md)
+- [Apply for the next cohort](https://tally.so/r/pbjkqJ)
+
+## Optional
+
+- [Imprint](https://hikanos.org/imprint/)
+- [Privacy policy](https://hikanos.org/privacy/)
